@@ -10,3 +10,6 @@
 *.iam filter=lfs diff=lfs merge=lfs -text
 *.idw filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+*.dxf filter=lfs diff=lfs merge=lfs -text
+*.dwg filter=lfs diff=lfs merge=lfs -text
+*.3mf filter=lfs diff=lfs merge=lfs -text
